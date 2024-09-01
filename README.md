@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmadeja-z/ahmadeja-z/main/Purple%20White%20Modern%20Mobile%20App%20Development%20Linkedin%20Background%20Photo.png" alt="Banner Image" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Ahmad Ejaz</h1>
 <h3 align="center">Weaving Aesthetic UIs: My Flutter Exploration</h3>
 
